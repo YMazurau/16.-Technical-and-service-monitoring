@@ -1,5 +1,5 @@
 # 16. Technical and service monitoring
-[https://github.com/YMazurau/16.Monitoring]
+[https://github.com/YMazurau/16.-Technical-and-service-monitoring]
 
 ## Deploy Zabbix
 
